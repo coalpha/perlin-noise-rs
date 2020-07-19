@@ -1,0 +1,8 @@
+[package]
+name = "perlin-noise-rs"
+version = "0.0.1"
+authors = ["coalpha <22552895+coalpha@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7"
