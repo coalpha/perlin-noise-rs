@@ -6,3 +6,6 @@ edition = "2018"
 
 [dependencies]
 rand = "0.7"
+minifb = "0.18"
+perlin_noise = "1.0.1"
+palette = "0.5"
